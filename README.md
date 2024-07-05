@@ -1,16 +1,18 @@
-## Hi there 👋
+# About Me
 
-<!--
-**sakataku1991/sakataku1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a web frontend and backend developer from Japan
 
-Here are some ideas to get you started:
+2. My favorites are CSS, TypeScript, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=sakataku1991)
+
+## Programming Languages
+
+![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby)
+
+## Frameworks and Library
+
+![](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,rails)
+
+## DB and Dev Tools etc
+![](https://skillicons.dev/icons?i=mysql,vscode,docker,aws,ai,figma)
